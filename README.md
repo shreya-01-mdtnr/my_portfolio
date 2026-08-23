@@ -1,5 +1,6 @@
-Hi! I am Shreya<br>
-B.tech AI & Data science student at Reva University,passionate about technology, programming, and building solutions that can make a real-world impact.Interested in developing innovative technology-based solutions.
+**Hi! I am Shreya**<br>
+B.tech AI & Data science student at Reva University.<br>
+Passionate about technology, programming, and building solutions that can make a real-world impact.Interested in developing innovative technology-based solutions.
 
 **Skills & technologies**-
 Python, C, Flutter<br>
@@ -19,7 +20,7 @@ An AI-powered healthcare concept that uses smartwatch health data to identify po
 
 🔗 **[View PulseX Project prototype](https://pulsexx.lovable.app)**
 
-_**Smart Blind Stick**_<br>
+_**Smart Blind Stick**_-<br>
 An IoT-based project designed to assist visually impaired individuals by detecting obstacles and providing alerts through vibration and sound.
 
 Let's Connect<br>
