@@ -7,21 +7,19 @@ Tools & Platforms:
 Git ,GitHub, Jupyter Notebook, Google Colab ,VS Code
 
 **Currently learning**-
-Web developement
 
-OOP using python
+Web developement<br>
+OOP using python<br>
+Data structures & algorithms<br>
+Design thinking<br>
 
-Data structures & algorithms
-
-Design thinking
-
-🚀 Featured Projects-
+🚀 Featured Projects-<br>
 _**PulseX**_ – Early Health Risk Detection<br>
 An AI-powered healthcare concept that uses smartwatch health data to identify potential health risks at an early stage.
 
 🔗 **[View PulseX Project prototype](https://pulsexx.lovable.app)**
 
-_**Smart Blind Stick**_
+_**Smart Blind Stick**_<br>
 An IoT-based project designed to assist visually impaired individuals by detecting obstacles and providing alerts through vibration and sound.
 
 Let's Connect<br>
