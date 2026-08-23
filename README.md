@@ -23,7 +23,7 @@ An AI-powered healthcare concept that uses smartwatch health data to identify po
 _**Smart Blind Stick**_-<br>
 An IoT-based project designed to assist visually impaired individuals by detecting obstacles and providing alerts through vibration and sound.
 
-Let's Connect<br>
+**Let's Connect**<br>
 💼 LinkedIn: https://www.linkedin.com/in/shreya-m-0a8024375?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 📧 Email: sgmuddatnur@gmail.com
